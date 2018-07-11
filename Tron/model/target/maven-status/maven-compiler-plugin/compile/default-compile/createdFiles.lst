@@ -1,1 +1,11 @@
+model\timer.class
+DAO\Datamanager.class
+model\Rider.class
+model\Elements.class
+model\Grid.class
 model\Rider$1.class
+DAO\AbstractDatamanager.class
+DAO\TronBDDConnector.class
+model\TronModel.class
+model\Direction.class
+model\Particles.class

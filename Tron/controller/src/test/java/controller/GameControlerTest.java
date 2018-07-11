@@ -36,7 +36,7 @@ public class GameControlerTest {
 		
 	} 
 	/**
-	 * Véridie que la vue est la bonne
+	 * Vérifie que la vue est la bonne
 	 */
 	@Test
 	public void testcontrolerview() {

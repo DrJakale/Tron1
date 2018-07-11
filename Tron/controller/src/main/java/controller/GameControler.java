@@ -16,7 +16,7 @@ public class GameControler implements IController {
 	
 	/**
 	 * Constructor
-	 * @param Model , View
+	 * 
 	 * 
 	 * 
 	 */
